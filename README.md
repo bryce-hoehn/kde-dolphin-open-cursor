@@ -6,7 +6,7 @@ Works on the empty background or on a folder.
 
 ## Download
 
-<a href="https://store.kde.org/p/1413799/"><img alt="Download from the KDE Store" height="50px"
+<a href="https://www.pling.com/p/2329632/"><img alt="Download from the KDE Store" height="50px"
 src="https://img.shields.io/badge/KDE_Store-blue?style=for-the-badge&logo=kde"></a>
 <a href="https://github.com/bryce-hoehn/kde-dolphin-open-cursor/releases/latest"><img alt="Download from GitHub" height="50px"
 src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github"></a>
@@ -30,6 +30,4 @@ By default, the extension works on directories (i.e. `inode/directory`). If you 
 
 ## Screenshots
 
-![](screenshots/open_vscode_1.png)
-
-![](screenshots/open_vscode_2.png)
+![](screenshots/open_cursor.png)
