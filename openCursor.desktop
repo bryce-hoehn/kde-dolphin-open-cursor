@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name = Open in Cursor
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory
+X-KDE-Priority=TopLevel
+Actions=openInCursor
+
+[Desktop Action openInCursor]
+Name=Open in Cursor
+Name[nl]=Openen in Cursor
+Name[cs]=Otevřít ve Cursor
+Name[es]=Abrir en Cursor
+Name[pl]=Otwórz za pomocą Cursor
+Name[zh]=在 Cursor 中打开
+Name[zh_CN]=在 Cursor 中打开
+Name[de]=In Cursor öffnen
+Name[hi]=Cursor में खोले
+Name[ml]=Cursor ൽ തുറക്കുക
+Name[mr]=Cursor मध्ये उघडा
+Name[kn]=Cursor ನಲ್ಲಿ ತೆರೆಯಿರಿ
+Icon=co.anysphere.cursor
+Exec=cursor %u
