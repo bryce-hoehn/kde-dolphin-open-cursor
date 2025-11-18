@@ -6,7 +6,7 @@ MimeType=inode/directory
 X-KDE-Priority=TopLevel
 Actions=openInCursor
 
-[Desktop Action openInVSCode]
+[Desktop Action openInCursor]
 Name=Open in Cursor
 Name[nl]=Openen in Cursor
 Name[cs]=Otevřít ve Cursor
